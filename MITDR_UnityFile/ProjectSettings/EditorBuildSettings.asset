@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom_VR_Instruction.unity
+    guid: edae280438fa275448fd43d61733238e
+  - enabled: 0
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom_VR_SafetyProcedure.unity
+    guid: 6935853e75b9ef4478d8bc196b1c0176
+  - enabled: 0
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom-VR-Machining/Dormroom-VR-Machining.unity
+    guid: 4bb35b1a9057434478cc605562a17c41
+  - enabled: 0
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom-VR-Machining/Dormroom-VR-Machining-JointTest.unity
+    guid: 20ca8b658fa2fbe418d3d9b0c5440682
+  - enabled: 0
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom-VR-Machining/Dormroom-VR-Machining-UI.unity
+    guid: 466e0de928ff726408dea36c696bafc8
+  - enabled: 0
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom-VR-Machining/Dormroom-VR-Machining-WorkingUI.unity
+    guid: e9ac73474b3c0c74a8addd7e367daf5b
+  - enabled: 1
+    path: Assets/_MITmech/Scenes/Dormroom-VR/Dormroom_VR_Machining.unity
+    guid: 5a0c687b3155f8144bbf4a7ba33af8e9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2ee1879a80bf54d4ca7c501b6b81a168, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c550d8daf1c02a64fbb320fb60b02930, type: 2}
